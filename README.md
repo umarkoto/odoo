@@ -1,0 +1,2 @@
+# odoo
+idkotoo tutorial
